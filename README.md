@@ -9,6 +9,8 @@ If u want to see detail, pls check my thesis document:<br>
   
 ## 1-Hardware Implementation
 ![image](https://user-images.githubusercontent.com/70964563/199980455-fca349e7-e85c-447c-8648-d2926ad91480.png)
+![image](https://user-images.githubusercontent.com/70964563/199984642-6953165b-e2f1-4dce-a44b-b83905ca5818.png)
+
 
 ## 2-Image Processing Test Image
 ### 2.1-Input Image
